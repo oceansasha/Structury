@@ -1,0 +1,49 @@
+10
+Sidorov A.E.
+50
+180
+
+11
+Sidorov K.L.
+35
+37
+
+12
+Sidorov D.V.
+23
+53
+
+13
+Cybulko S.E.
+77
+144
+
+14
+Boyarov A.E.
+13
+99
+
+15
+Krasnova A.A.
+26
+555
+
+16
+Kyprianov N.A.
+36
+123
+
+17
+Sidorov G.V.
+27
+876
+
+18
+Sidorov K.O.
+55
+564
+
+19
+Sidorov P.L.
+28
+25
